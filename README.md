@@ -10,14 +10,10 @@
 - Dan roti siap dinikmati
 
 2. Menggunakan Komputer di Laboratorium
-- Siapkan CPU, Monitor, Kabel, Keyboard, dan Mouse
-- Hubungkan Monitor dengan CPU menggunakan kabel
-- Hubungkan Kabel Mouse ke CPU
-- Hubungkan Kabel Monitor ke listrik
-- Hubungkan Kabel CPU ke Listrik
-- Hubungkan Kabel Keyboard ke CPU
-- Tekan Tombol Power pada CPU
-- Tekan Tombol Power pada Monitor
+- Hubungkan kabel atau catu daya komputer ke stop kontak
+- Tekan tombol power komputer untuk menghidupkan komputer
+- Tunggu sampai komputer selesai melakukan proses booting dan membuat sistem operasi
+- Muncul tampilan dekstop dan komputer siap dipakai
 
 3. Menghitung rata-rata 3 buah bilangan
 - Memasukkan X : 4
