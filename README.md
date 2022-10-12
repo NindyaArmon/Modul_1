@@ -29,7 +29,7 @@
 
 1.7.2 Konversi Sistem Bilangan
 
-1. 198010 ke bilangan biner,heksadesimal,dan oktal
+1. 198010 ke bilangan Biner, Heksadesimal, dan Oktal
 
 1980 /2 = 0
 990 /2 = 0
@@ -74,7 +74,7 @@ Oktal :
 Desimal : 
 1 + 4 + 8 + 64 +512 = 589
 
-3. 768 ke bilangan biner, heksadesimal, dan decimal
+3. 768 ke bilangan Biner, Heksadesimal, dan Decimal
 
 Biner : 111110
 
